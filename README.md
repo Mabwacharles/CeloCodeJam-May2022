@@ -3,15 +3,17 @@
 > ### **Build a simple Decentralized e-commerce application that checks-out with Celo Tokens**
 
 # Working on the Code Jam
-1. Fork the code jam repository provided.
+> Fork the code jam repository provided.
+
+> git clone the repo:
 
 ```sh
-$ git clone the repo:
 
-git clone <URL> 
+$ git clone <URL> 
 
 ```
 
+> cd into the repo
 ```sh
 $ cd CeloCodeJam-May2022
 
