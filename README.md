@@ -38,8 +38,13 @@ $ git branch
 
 > Push the new branch to github
 
+
 ```sh
-$ git push origin -u mabwa_charles
+git push -u origin <branch>
+
+*example*
+
+$ git push -u origin mabwa_charles
 ```
 ## Submission Requirements
 - Submissions must have a THEME focus as part of their project. Points will be awarded for smart contracts deployed to the testnet demonstrating your idea and application.
