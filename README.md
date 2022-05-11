@@ -56,7 +56,7 @@ $ git push -u origin mabwa_charles
 - Be sure to submit your CELO address with your submission.
 
 ## Bounty Type
-- Prize
+- Will be communicated
 
 ## Resources:
 
