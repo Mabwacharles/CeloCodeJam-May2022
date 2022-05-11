@@ -4,14 +4,19 @@
 
 # Working on the Code Jam
 1. Fork the code jam repository provided.
-   
-2. Make a topic branch. In your github form, keep the main branch clean. When you create a branch, it essentially will be a copy of the main.
 
-> Pull all changes (boiler plate), make sure your repository is up to date
+2. Git clone the repo
+```sh
+$ git clone the repo:
+
+git clone <URL> 
+
+#Start working on the project
+```
 
 ```sh
-$ cd CeloMay_2022_Jam
-$ git pull -u origin main
+$ cd CeloCodeJam-May2022
+
 ```
 
 > Create a new branch as follows-> git checkout -b [your name], e.g.
