@@ -34,15 +34,13 @@ $ git branch
 ```
 > Work on the code on your branch 
 
+> Commit the changes 
+
 > Push the new branch to github
 
 ```sh
 $ git push origin -u mabwa_charles
 ```
-
-3.Make changes to the fork following the Code Jam provided.
-
-4.Commit the changes to your fork.
 ## Submission Requirements
 - Submissions must have a THEME focus as part of their project. Points will be awarded for smart contracts deployed to the testnet demonstrating your idea and application.
 
