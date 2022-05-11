@@ -32,6 +32,7 @@ $ git branch
 * mabwa_charles
     main
 ```
+> Work on the code on your branch 
 
 > Push the new branch to github
 
