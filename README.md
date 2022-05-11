@@ -5,8 +5,7 @@
 # Working on the Code Jam
 1. Fork the code jam repository provided.
 
-
-2. ```sh
+```sh
 $ git clone the repo:
 
 git clone <URL> 
