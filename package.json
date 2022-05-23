@@ -2,6 +2,7 @@
   "name": "celo-boilerplate",
   "version": "0.0.1",
   "private": true,
+  "homepage": "https://grishonnganga.github.io/CeloCodeJam-May2022",
   "dependencies": {
     "@celo-tools/use-contractkit": "^3.0.0-beta2",
     "@celo/contractkit": "^1.5.2",
@@ -23,14 +24,17 @@
     "url": "^0.11.0",
     "vm-browserify": "^1.1.2",
     "web-vitals": "^2.1.4",
-    "web3": "^1.7.0"
+    "web3": "^1.7.0",
+    "zustand": "^4.0.0-rc.1"
   },
   "scripts": {
     "account": "node utils/createAccount.js",
     "start": "react-app-rewired start",
     "build": "react-app-rewired build",
     "test": "react-app-rewired test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -53,11 +57,13 @@
   "devDependencies": {
     "buffer": "^6.0.3",
     "fs": "^0.0.1-security",
+    "gh-pages": "^4.0.0",
     "https-browserify": "^1.0.0",
     "process": "^0.11.10",
     "react-app-rewired": "^2.2.1",
     "stream-browserify": "^3.0.0",
-    "stream-http": "^3.2.0"
+    "stream-http": "^3.2.0",
+    "tailwindcss": "^3.0.24"
   },
   "main": "config-overrides.js",
   "author": "Jordan Muthemba",
