@@ -1,6 +1,6 @@
 ## Challenge Description
 
-> ### **Build a simple Decentralized e-commerce application that checks-out with Celo Tokens**
+> ### **Build a Simple Celo Tracker**
 
 # Working on the Code Jam
 > Fork the code jam repository provided.
